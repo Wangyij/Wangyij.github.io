@@ -1,4 +1,4 @@
-# XXX's Homepage
+# Wang Yijin's Homepage
 ## About me
 ### Basic Information
 <table border="0">
