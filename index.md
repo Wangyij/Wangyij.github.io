@@ -3,13 +3,10 @@
 ### Basic Information
 <table border="0">
   <tr>
-    <td width="80%">
+    <td width="100%">
       <h3>Name: XXX</h3>
       <p><b>Home Add: XX - XX - XX</b></p>
       <p><b>Education Background for Now: Bachelor Degree in Mathematics</b></p>
-    </td>
-    <td width="20%">
-      <img src="/MyPhoto.jpg" width="100%"> 
     </td>
   </tr>
 </table>
